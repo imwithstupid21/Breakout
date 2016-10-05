@@ -103,7 +103,7 @@ function drawScore() {
 }
 
 function gameOver() {
-    alert("GAME OVER");
+    alert("Try again!");
     document.location.reload();
 }
 
